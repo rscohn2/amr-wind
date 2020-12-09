@@ -1,0 +1,27 @@
+<map id="amr_wind::FreeStream" name="amr_wind::FreeStream">
+<area shape="rect" id="node3" href="$classamr__wind_1_1_c_f_d_sim.html" title="Data structures for a CFD simulationCFDSim represents the amr&#45;wind execution environment and manages ..." alt="" coords="2149,491,2287,517"/>
+<area shape="rect" id="node5" href="$classamr__wind_1_1_i_o_manager.html" title="Input/Output managerThis class contains infrastructure to output solution fields during the simulatio..." alt="" coords="2490,824,2641,851"/>
+<area shape="rect" id="node20" href="$classamr__wind_1_1_post_process_manager.html" title="A collection of post&#45;processing instances that are active during a simulation. " alt="" coords="2460,371,2671,397"/>
+<area shape="rect" id="node21" href="$classamr__wind_1_1pde_1_1_p_d_e_mgr.html" title="PDE systems manager. " alt="" coords="2483,531,2648,557"/>
+<area shape="rect" id="node7" href="$classamr__wind_1_1_derived_qty_mgr.html" title="amr_wind::DerivedQtyMgr" alt="" coords="1352,819,1527,845"/>
+<area shape="rect" id="node22" href="$classamr__wind_1_1_coll_mgr.html" title="amr_wind::CollMgr\&lt;\l PDEMgr, PDEBase \&gt;" alt="" coords="1362,610,1517,651"/>
+<area shape="rect" id="node23" href="$classamr__wind_1_1_coll_mgr.html" title="Interface to manage objects of sub&#45;classes based on factory registrationProvides boiler&#45;plate code to..." alt="" coords="965,508,1123,564"/>
+<area shape="rect" id="node36" href="$classamr__wind_1_1_coll_mgr.html" title="amr_wind::CollMgr\&lt;\l PhysicsMgr, Physics \&gt;" alt="" coords="1358,545,1521,586"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="266,773,346,800"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="5,766,132,807"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="237,197,375,238"/>
+<area shape="rect" id="node18" title="STL class. " alt="" coords="257,903,355,929"/>
+<area shape="rect" id="node16" title="STL class. " alt="" coords="1369,247,1509,273"/>
+<area shape="rect" id="node14" href="$classamr__wind_1_1_field_repo.html" title="Field RepositoryFieldRepo is a database that manages handling of fields used during a simulation..." alt="" coords="971,713,1117,740"/>
+<area shape="rect" id="node25" href="$classamr__wind_1_1pde_1_1_p_d_e_base.html" title="Abstract interface defining a PDE and its solution process withn AMR&#45;WindThe exact behavior is implem..." alt="" coords="1353,333,1526,360"/>
+<area shape="rect" id="node26" href="$structamr__wind_1_1_factory.html" title="amr_wind::Factory\&lt;\l PDEBase, CFDSim &amp;,\l const int \&gt;" alt="" coords="964,296,1124,352"/>
+<area shape="rect" id="node27" href="$structamr__wind_1_1_factory.html" title="Runtime selection of options based on string keyword lookupFactory provides an automated way to regis..." alt="" coords="557,343,695,385"/>
+<area shape="rect" id="node31" href="$structamr__wind_1_1_factory.html" title="amr_wind::Factory\&lt;\l OversetManager, CFDSim &amp;\&gt;" alt="" coords="943,377,1145,418"/>
+<area shape="rect" id="node34" href="$structamr__wind_1_1_factory.html" title="amr_wind::Factory\&lt;\l TurbulenceModel, CFDSim &amp;\&gt;" alt="" coords="941,442,1147,483"/>
+<area shape="rect" id="node40" href="$structamr__wind_1_1_factory.html" title="amr_wind::Factory\&lt;\l UDF, Field &amp;\&gt;" alt="" coords="975,179,1113,221"/>
+<area shape="rect" id="node28" href="$classamr__wind_1_1_sim_time.html" title="Time manager for simulations. " alt="" coords="1797,515,1935,541"/>
+<area shape="rect" id="node30" href="$classamr__wind_1_1_overset_manager.html" title="Overset interface manager. " alt="" coords="1348,403,1531,429"/>
+<area shape="rect" id="node33" href="$classamr__wind_1_1turbulence_1_1_turbulence_model.html" title="Abstract representation of a turbulence modelThis class is an abstract representation of a turbulence..." alt="" coords="1366,469,1513,510"/>
+<area shape="rect" id="node35" href="$classamr__wind_1_1_physics_mgr.html" title="A collection of Physics models instances that are active during a simulation. " alt="" coords="1789,565,1943,592"/>
+<area shape="rect" id="node39" href="$classamr__wind_1_1udf_1_1_u_d_f.html" title="amr_wind::udf::UDF" alt="" coords="1369,123,1509,149"/>
+</map>
